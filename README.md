@@ -10,6 +10,7 @@
 
 - 🤓 In my spare time, I study some new technology or seek to reinforce something I already know by taking courses on Udemy. I am also very interested in participating in trainings!
      
+     ¡I love make the things happend! 🌱 🧙‍♂ 💻
 
 # Skills 🔑
 
