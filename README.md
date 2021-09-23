@@ -9,8 +9,12 @@
 - 👩‍🎓 I started studying Programming at the UTN - Mar del Plata in 2020. My university studies have not been completed. Even so, my self-taught learning is constant.
 
 - 🤓 In my spare time, I study some new technology or seek to reinforce something I already know by taking courses on Udemy. I am also very interested in participating in trainings!
-     
-     ¡I love make the things happend! 🌱 🧙‍♂ 💻
+
+<p>&nbsp;</p>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;_¡I love make the things happen!_ 🌱 🧙‍♂ 💻
+
+<p>&nbsp;</p>
 
 # Skills 🔑
 
