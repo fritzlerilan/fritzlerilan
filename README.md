@@ -37,3 +37,4 @@
 
 - 📫 This is my email: fritzlerilan@gmail.com
 - 🔗 My LinkedIn profile is [here](https://www.linkedin.com/in/ilan-fritzler/)
+- 📷 And [My Instagram](https://www.instagram.com/fritzlerilan)
