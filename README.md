@@ -1,5 +1,5 @@
  # Who is @fritzlerilan?
-## About Me 👨‍🦱
+## About Me 🧔
 - 👋 Hi, I’m @fritzlerilan better known as Ilan :).
 - 🌊 I live in Mar del Plata, Argentina. A beatiful city aside the sea. 
 - 👀 I am interested in learning how to be a backend developer but I want to be a fullstack developer. I really like to understand the logic of things.
